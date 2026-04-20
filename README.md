@@ -9,11 +9,12 @@ There is a JSON file `blocks.json` for download. The file is an array of JSON ob
 ```javascript
 [
   {
-    "height": 913272,
-    "hash": "0000000000000000000094e66964da28a35c67a2d9ba1bcb46a190fb1ffb73ac",
-    "link": "https://mempool.space/block/0000000000000000000094e66964da28a35c67a2d9ba1bcb46a190fb1ffb73ac",
-    "miner": "nerdqaxe++",
-    "details": "Mined on Ocean." // optional, can be missing
+    "height": 943466,
+    "timestamp": 1775196460,
+    "hash": "00000000000000000000193bc4e2031f73d252f27d3b63e2b0b25da6059c6eda",
+    "link": "https://mempool.space/block/00000000000000000000193bc4e2031f73d252f27d3b63e2b0b25da6059c6eda",
+    "miner": "nerdoctaxe",
+    "details": "First hosted Public Pool block. First NerdOctaxe block." // optional, can be missing
   }
 ]
 ```
