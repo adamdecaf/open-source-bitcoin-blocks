@@ -1,0 +1,56 @@
+[
+  {
+    "height": 853742,
+    "hash": "00000000000000000000f0235e50becc0b3bc91231e236f67736d64b1813704b",
+    "link": "https://mempool.space/block/00000000000000000000f0235e50becc0b3bc91231e236f67736d64b1813704b",
+    "miner": "bitaxe_supra",
+    "details": "First Bitaxe block."
+  },
+  {
+    "height": 887212,
+    "hash": "000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81",
+    "link": "https://mempool.space/block/000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81",
+    "miner": "bitaxe_ultra"
+  },
+  {
+    "height": 913272,
+    "hash": "0000000000000000000094e66964da28a35c67a2d9ba1bcb46a190fb1ffb73ac",
+    "link": "https://mempool.space/block/0000000000000000000094e66964da28a35c67a2d9ba1bcb46a190fb1ffb73ac",
+    "miner": "nerdqaxe++",
+    "details": "Mined on Ocean."
+  },
+  {
+    "height": 920440,
+    "hash": "0000000000000000000022b7f4d4475c72653a898672c121715af5c62c5f21da",
+    "link": "https://mempool.space/block/0000000000000000000022b7f4d4475c72653a898672c121715af5c62c5f21da",
+    "miner": "nerdqaxe++",
+    "details": "Self hosted Public Pool."
+  },
+  {
+    "height": 924569,
+    "hash": "00000000000000000001457a4acc5da8e886dddd0a79a6899957a502e0a1977b",
+    "link": "https://mempool.space/block/00000000000000000001457a4acc5da8e886dddd0a79a6899957a502e0a1977b",
+    "miner": "bitaxe_gamma"
+  },
+  {
+    "height": 943466,
+    "hash": "00000000000000000000193bc4e2031f73d252f27d3b63e2b0b25da6059c6eda",
+    "link": "https://mempool.space/block/00000000000000000000193bc4e2031f73d252f27d3b63e2b0b25da6059c6eda",
+    "miner": "nerdoctaxe",
+    "details": "First hosted Public Pool block. First NerdOctaxe block."
+  },
+  {
+    "height": 944078,
+    "hash": "000000000000000000014be7591e4a90d3b4a1fb614b1e71d1e1a89fa2cbb449",
+    "link": "https://mempool.space/block/000000000000000000014be7591e4a90d3b4a1fb614b1e71d1e1a89fa2cbb449",
+    "miner": "nerdqaxe++",
+    "details": "First NodeRunners block."
+  },
+  {
+    "height": 945601,
+    "hash": "0000000000000000000187fb7ba74cbf834b0258890ae289e50b09dd4167b098",
+    "link": "https://mempool.space/block/0000000000000000000187fb7ba74cbf834b0258890ae289e50b09dd4167b098",
+    "miner": "nerdqaxe++",
+    "details": "Second Parasite Pool block."
+  }
+]
